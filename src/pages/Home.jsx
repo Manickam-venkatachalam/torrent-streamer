@@ -15,7 +15,7 @@ const Home = () => {
             title="Bachelor Movie | Youtube"
             description="Bachelor movie GV Prakash and Divya bharathi"
             url={
-              "https://sgp1.digitaloceanspaces.com/torrentdownload/example%0A/Veerama_Vaagai_Soodum.mkv"
+              https://torrentdownload-1.s3.ap-south-1.amazonaws.com/Mahaan.mkv
             }
           />
         </div>
